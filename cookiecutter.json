@@ -1,0 +1,10 @@
+{
+  "author": "Alex Striff",
+  "email": "abs299@cornell.edu",
+  "github_username": "abs299",
+  "github_repo_user": "nowacklab",
+  "project_name": "",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "project_short_description": ""
+}
+
